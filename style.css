@@ -68,8 +68,8 @@ main .card:nth-of-type(7) {
 }
 
 main .card:hover {
-  -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
   -webkit-box-shadow: 5px 10p;
           box-shadow: 5px 10p;
 }
