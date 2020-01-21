@@ -24,7 +24,7 @@ main {
   -ms-grid-columns: (minmax(16rem, 2fr))[auto-fit];
       grid-template-columns: repeat(auto-fit, minmax(16rem, 2fr));
   grid-gap: 2rem 2rem;
-  cursor: pointer;
+  cursor: auto;
   border-color: rgba(18, 90, 150, 0.897);
   margin: 2%;
   border-width: 2rem;
